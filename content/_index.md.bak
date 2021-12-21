@@ -5,7 +5,7 @@ description: home page
 ---
 
 
-<form action="https://rmilab.nkust.edu.tw/api/addone" method="post">
+<form action="https://rmilab@nkust.edu.tw/api/addone" method="post">
       <input type="hidden" name="byuser" value="105862777661039174872">
       <input type="hidden" name="touser" value="105862777661039174872">
       <input type="submit" class="btn-outline-primary" value="👍">
