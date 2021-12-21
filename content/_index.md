@@ -3,6 +3,10 @@ title: 頁首
 description: home page
 
 ---
+hi,my friend
+-red 
+-blue 
+-green
 
 
 <form action="https://rmilab.nkust.edu.tw/api/addone" method="post">
